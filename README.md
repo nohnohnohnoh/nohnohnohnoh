@@ -20,6 +20,6 @@
   <img src="https://img.shields.io/badge/trello-0052CC?style=flat-square&logo=trello&logoColor=white"/>
   <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/><br/><br/>
 <h1>📫Connects📫</h1>
-  <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> shduddhks1234@gmail.com  <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/><a href="https://velog.io/@nohnohnohnoh"> https://velog.io/@nohnohnohnoh </a><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </div>
